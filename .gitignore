@@ -1,0 +1,6 @@
+node_modules/
+coverage/
+dist/
+.pipeline/
+*.log
+.DS_Store
